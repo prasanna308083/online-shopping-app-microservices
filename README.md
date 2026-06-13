@@ -1,6 +1,5 @@
 #cloud-native-ecommerce-eks-devops-project
 This project demonstrates the deployment of a cloud-native microservices-based e-commerce application on Amazon Elastic Kubernetes Service (EKS). The application consists of multiple containerized services managed through Kubernetes and deployed using a Jenkins CI/CD pipeline.
-
 The platform follows modern DevOps practices including container orchestration, automated deployment, cloud infrastructure management, and service-to-service communication within a Kubernetes cluster.
 
 Technologies Used
